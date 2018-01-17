@@ -1,3 +1,8 @@
 THIS IS NEW SITE
+<<<<<<< HEAD
 this is the text file
 Global status file
+=======
+global new edit
+this is another text 
+>>>>>>> f29cbf6b9150a0c85bfcbd812515559f6163300a
